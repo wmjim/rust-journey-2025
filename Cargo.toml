@@ -4,3 +4,10 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+
+
+
+
+[[test]]
+name = "day1_test"
+path = "tests/day1_test.rs"
